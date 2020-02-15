@@ -1,0 +1,28 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1581694325814.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "954683171",
+    "id" : "A02A5B69",
+    "lastKnownWriteTime" : 1581785212,
+    "last_content_update" : 1581785212633,
+    "path" : "C:/Users/denisevitoriano/Desktop/Programação/R/Challenges/corona_virus/historico_china.R",
+    "project_path" : "historico_china.R",
+    "properties" : {
+        "cursorPosition" : "3,28",
+        "docOutlineSize" : "173.97173494085536",
+        "docOutlineVisible" : "1",
+        "scrollLine" : "0",
+        "tempName" : "Untitled2"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
